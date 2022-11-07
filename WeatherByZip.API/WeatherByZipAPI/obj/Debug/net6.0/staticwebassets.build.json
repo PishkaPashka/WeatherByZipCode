@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SyrBg+d/G91m5ssWs/RvkUCy3dX3gerzBaBQq5+0R1g=",
+  "Source": "WeatherByZip.API",
+  "BasePath": "_content/WeatherByZip.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
